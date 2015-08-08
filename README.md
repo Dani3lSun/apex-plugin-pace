@@ -1,4 +1,4 @@
-#Oracle Apex Region Plugin - Pace Progress Indicator
+#Oracle Apex DynamicAction Plugin - Pace Progress Indicator
 Dynamic Action Plugin using OpenSource JS framework "pace.js" to display nice loading indicators.
 (https://github.com/HubSpot/pace).
 

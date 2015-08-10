@@ -85,7 +85,7 @@ wwv_flow_api.create_plugin(
 'You can choose between several colors and themes.',
 'Original from: http://github.hubspot.com/pace/docs/welcome/'))
 ,p_version_identifier=>'1.0'
-,p_about_url=>'http://blog.danielh.de/'
+,p_about_url=>'https://github.com/Dani3lSun/apex-plugin-pace'
 ,p_files_version=>142
 );
 wwv_flow_api.create_plugin_attribute(

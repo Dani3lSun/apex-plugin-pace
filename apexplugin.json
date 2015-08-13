@@ -3,7 +3,7 @@
   "version" : "1.0",
   "description" : "Dynamic Action Plugin using OpenSource JS framework pace.js to display nice loading indicators.",
   "keywords" : ["page loading", "loading", "progress", "indicator"],
-  "homepage" : "https://github.com/Dani3lSun/apex-plugin-pace"
+  "homepage" : "https://github.com/Dani3lSun/apex-plugin-pace",
   "bugs" : {
     "url" : "https://github.com/Dani3lSun/apex-plugin-pace/issues",
     "email" : "daniel@danielh.de"
@@ -12,7 +12,7 @@
   "author" : {
     "name" : "Daniel Hochleitner",
     "email" : "daniel@danielh.de",
-    "url" : "http://blog.danielh.de/",
+    "url" : "http://blog.danielh.de/"
   },
   "repository" : {
     "type" : "git",

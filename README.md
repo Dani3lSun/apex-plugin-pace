@@ -21,4 +21,6 @@ Create a new Dynamic Action with event "on load". As Action choose "Pace Progres
 ##Demo Application
 https://apex.oracle.com/pls/apex/f?p=57743:4
 
+##Preview
+![](https://github.com/Dani3lSun/apex-plugin-pace/blob/master/preview.png)
 ---

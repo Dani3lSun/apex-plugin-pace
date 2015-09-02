@@ -27,7 +27,8 @@
       "plugin" : {
         "internal-name" : "DE.DANIELH.PACE",
         "type" : "dynamic action",
-        "demo" : "https://apex.oracle.com/pls/apex/f?p=57743:4"
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=57743:4",
+        "preview-img" : "https://github.com/Dani3lSun/apex-plugin-pace/blob/master/preview.png"
       }
     }
   }

@@ -25,10 +25,10 @@
     "apex" : {
       "versions" : ["5.0.0"],
       "plugin" : {
-        "internal-name" : "DE.DANIELH.PACE",
+        "internalName" : "DE.DANIELH.PACE",
         "type" : "dynamic action",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=57743:4",
-        "preview-image" : "https://raw.githubusercontent.com/Dani3lSun/apex-plugin-pace/master/preview.png"
+        "previewImage" : "https://raw.githubusercontent.com/Dani3lSun/apex-plugin-pace/master/preview.png"
       }
     }
   }

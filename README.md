@@ -19,7 +19,7 @@ The plugin settings are highly customizable and you can change:
 Create a new Dynamic Action with event "on load". As Action choose "Pace Progress Indicator".
 
 ## Demo Application
-https://apex.oracle.com/pls/apex/f?p=57743:4
+https://apex.oracle.com/pls/apex/f?p=APEXPLUGIN
 
 ## Preview
 ![](https://github.com/Dani3lSun/apex-plugin-pace/blob/master/preview.png)
